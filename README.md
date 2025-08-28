@@ -4,9 +4,9 @@
 [🌐 Versión en Español](https://github.com/MrKaizen/motor_instrucciones_github_copilot_agent/README.md)
 ---
 TL;DR
-This repo allows you to not have to remind your copilot that i.e. the component name is PalmTree and not palmtree, sounds famliar?
+This Repo allows you to not have to remind your copilot that i.e. the component name is PalmTree and not palmtree, sounds famiiar?
 The Instructions work on a deeper level compared to context, your copilot will check the instructions first and he'd be smart to know which ones to use.
-THe Propmts are merely presets, handy when you have repetitive tasks that involve preserving a structure/style, and helps the copilot save a few 'wait, what is life?' moments.
+The Prompts are merely presets, handy when you have repetitive tasks that involve preserving a structure/style, and helps the copilot save a few 'wait, what is life?' moments.
 
 This folder powers the AI-driven development engine for the repository. It provides modular instructions and reusable prompts for both human collaborators and AI, ensuring consistent standards, workflows, and onboarding processes.
 
