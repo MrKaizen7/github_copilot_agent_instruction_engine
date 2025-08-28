@@ -1,7 +1,7 @@
 # BAM! Enhanced Github Copilot — Instructions for AI Agents
 
 ---
-[🌐 Spanish version](https://github.com/MrKaizen/motor_instrucciones_github_copilot_agent/README.md)
+[🌐 Versión en Español](https://github.com/MrKaizen/motor_instrucciones_github_copilot_agent/README.md)
 ---
 
 This folder powers the AI-driven development engine for the repository. It provides modular instructions and reusable prompts for both human collaborators and AI, ensuring consistent standards, workflows, and onboarding processes.
