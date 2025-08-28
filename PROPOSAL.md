@@ -95,7 +95,7 @@ Project: $1,000 earnings | 1,250 total points
 - A) 100 (basic) | B) 150 (+documentation) | C) 200 (+improvements) | D) Variable
 - **Result:** The community votes B with 67% → Implemented
 
-**Full details** in [N8NATION_MASTER_PLAN.md](../github.com/MrKaizen7/n8nation)
+**Full details** in [N8NATION_MASTER_PLAN.md](https://www.github.com/MrKaizen7/n8nation)
 
 ---
 
