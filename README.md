@@ -49,6 +49,5 @@ Join our community to ask questions, share your workflows, and connect with othe
 *   **Telegram Channel:** [https://t.me/n8nation]
 *   **Telegram Group:** [https://t.me/n8nation_chat]
 *   **Reddit:** [https://www.reddit.com/r/n8nation_]
-*   **Email:** steventheortiz@gmail.com
 
 **Want to collaborate?** Visit our [community repository](community-repo/README.md) for resources and contribution opportunities under the MIT license. For collaborative business opportunities in the N8Nation ecosystem, see the [PROPOSAL.md](PROPOSAL.md) in the main [n8nation](https://github.com/MrKaizen7/n8nation) repository.
